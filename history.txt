@@ -1,0 +1,219 @@
+    1  git init
+    2  git remote add origin https://github.com/czwe-01/hygiene.git
+    3  git push -u master origin
+    4  git push
+    5  git remote
+    6  git push -u origin main
+    7  git status
+    8  git add *
+    9  git status
+   10  git commit
+   11  git config --global user.email tnkambule980115@gmail.com
+   12  git config --global user.name Thulasizwe
+   13  commit
+   14  git commit
+   15  git init
+   16  git add.
+   17  git add .
+   18  git commit -m "My first commit"
+   19  git remote add origin https://github.com/czwe-01/python.git
+   20  git push -u origin master
+   21  https://github.com/czwe-01/projectX.git
+   22  https://github.com/czwe-01/projectX.git
+   23  init
+   24  cd /projectX
+   25  cd projectX
+   26  git init
+   27  git add
+   28  git add .
+   29  git commit -m 
+   30  git commit -m "Initial import"
+   31  git remote add origin https://czwe-01@git.epfl.ch/repo/projectX.git
+   32  git push -u origin master
+   33  git push
+   34  git init
+   35  git add .
+   36  git commit -m "initial commint"
+   37  git push origin master
+   38  git remote add origin https://github.com/czwe-01/projectX.git
+   39  git remove remote origin
+   40  git remove rm origin
+   41  git remote rm origin
+   42  git remote add origin https://github.com/czwe-01/projectX.git
+   43  git push origin mastr
+   44  git push origin master
+   45  exit
+   46  git push
+   47  git remote add origin https://github.com/czwe-01/firstReactApp-webapp-.git
+   48  git push -u origin main
+   49  git clone https://github.com/john-smilga/react-advanced-2020.git
+   50  git init
+   51  git add '/c/Users/Thulasizwe Nkambule/Desktop/ReactsProjects/BirthdayReminder'
+   52  git remote add origin 
+   53  Thulasizwe Nkambule@LAPTOP-D3FM0NB1 MINGW64 ~/Desktop/ReactsProjects
+   54  $ git init
+   55  Initialized empty Git repository in C:/Users/Thulasizwe Nkambule/Desktop/
+   56  rojects/.git/
+   57  Thulasizwe Nkambule@LAPTOP-D3FM0NB1 MINGW64 ~/Desktop/ReactsProjects (mas
+   58  $ git add '/c/Users/Thulasizwe Nkambule/Desktop/ReactsProjects/BirthdayRe
+   59  Thulasizwe Nkambule@LAPTOP-D3FM0NB1 MINGW64 ~/Desktop/ReactsProjects (mas
+   60  $ git remote add origin
+   61  git add BirthdayReminder
+   62  $ git add '/c/Users/Thulasizwe Nkambule/Desktop/ReactsProjects/BirthdayRe
+   63  Thulasizwe Nkambule@LAPTOP-D3FM0NB1 MINGW64 ~/Desktop/ReactsProjects (mas
+   64  $ git add BirthdayReminder
+   65  git remote add origin https://github.com/czwe-01/Konnekshin.git
+   66  git branch -M main
+   67  git remote add origin https://github.com/czwe-01/Konnekshin.git
+   68  git remote add origin https://github.com/czwe-01/Konnekshin.git
+   69  git remote add origin https://github.com/czwe-01/Konnekshin.git
+   70  git add Konnekshin
+   71  git inity
+   72  git init
+   73  git add https://github.com/czwe-01/Konnekshin.git
+   74  git add origin https://github.com/czwe-01/Konnekshin.git
+   75  git remote add origin https://github.com/czwe-01/Konnekshin.git
+   76  git commit
+   77  git add *
+   78  git commit
+   79  git status
+   80  git push
+   81  git push -u origin main
+   82  git push -u origin
+   83  git push --set-upstream origin master
+   84  git push -u origin
+   85  git init
+   86  git add *
+   87  git remove *
+   88  git add *
+   89  git commit -m "first commit"
+   90  git branch -M main
+   91  git remote add origin https://github.com/czwe-01/myportfolio.git
+   92  git push -u origin main
+   93  pwd
+   94  mkdir git-basic-exercises
+   95  cd git-basic-exercises/
+   96  ls -a
+   97  git init
+   98  ls -a
+   99  git status
+  100  touch README.md
+  101  ls -a
+  102  git stauts
+  103  git status
+  104  git add README.md
+  105  git status
+  106  git remove README.md
+  107  git reset README.md
+  108  git status
+  109  git log
+  110  git add README.md
+  111  git status
+  112  git commit -m "initial commit"
+  113  git log
+  114  q
+  115  nano README.md 
+  116  cat README.md 
+  117  git status
+  118  git commit -m "second commit"
+  119  git add README.md 
+  120  git commit -m "second commit"
+  121  nano README.md 
+  122  git commit -m "third commit"
+  123  git add README.md 
+  124  git commit -m "third commit"
+  125  git log
+  126  git checkout
+  127  git checkout commit f5909d7210ec417a6f0463d6c6beb66e43fa925e
+  128  git checkout f5909d7210ec417a6f0463d6c6beb66e43fa925e
+  129  cat README.md 
+  130  git checkout main
+  131  git checkout master
+  132  cat README.md 
+  133  git branch
+  134  git branch milkshake-flavours
+  135  git branch
+  136  git checkout milkshake-flavours
+  137* git branch 
+  138  nano milkshakes.md
+  139  git status
+  140  git add milkshakes.md 
+  141  git commit "added initial flavours"
+  142  git commit -m "added initial flavours"
+  143  git log
+  144  git checkout master
+  145  git checkout master
+  146  git branch history
+  147  git checkout history 
+  148  git log
+  149  git branch
+  150  history > history.txt
+  151  git add history.txt 
+  152  git commit -m "added history"
+  153  git log
+  154  git checkout milkshake-flavours 
+  155  git log
+  156  git checkout master 
+  157  nano README.md 
+  158  git commit -m "random readme changes"
+  159  git add README.md 
+  160  git commit -m "random readme changes"
+  161  git checkout history 
+  162  cat README.md 
+  163  rm README.md 
+  164  echo "booya" > README.md
+  165  git add README.md 
+  166  git commit -m "rewrote readme"
+  167  git checkout master 
+  168  ls
+  169  git log
+  170  cd ../
+  171  mkdir Exercises
+  172  cd Exercises/
+  173  mkdir git-basic-exercises
+  174  cd git-basic-exercises/
+  175  ls -a
+  176  git init
+  177  ls -a
+  178  git status
+  179  touch README.md
+  180  ls -a
+  181  git status
+  182  git log
+  183  git add README.md 
+  184  git status
+  185  git rm README.md 
+  186  git status 
+  187  git rm --c README.md 
+  188  git status
+  189  git add README.md 
+  190  git commit -m "initial commit"
+  191  git log
+  192  nano README.md 
+  193  cat README.md 
+  194  git stats
+  195  git status
+  196  git add README.md 
+  197  git commit -m "second commit"
+  198  nano README.md 
+  199  git add README.md 
+  200  git commit -m "third commit"
+  201  git log
+  202  git checkout  f4c5aa4b047b2dac4f8eebd92abd34c875a4ba5b
+  203  cat README.md 
+  204  git branch
+  205  git branch milkshake-flavours
+  206  git branch
+  207  git checkout milkshake-flavours
+  208  git branch
+  209  nano milkshakes.md
+  210  git status
+  211  git add milkshakes.md 
+  212  git commit -m "added initial flavours"
+  213  git log
+  214  git checkout master 
+  215  git log
+  216  git branch history
+  217  git checkout history 
+  218  git branch
+  219  history > history.txt
